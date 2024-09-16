@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+models/.ipynb_checkpoints
+data/
+*.pth
+models/.ipynb_checkpoints
